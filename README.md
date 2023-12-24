@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <h3 align='center'> Hi! I'm Francesco <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'></h3>
+    <h1 align='center'> Hi! I'm Francesco <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'></h1>
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=r3aprz.r3aprz&"  />
     </div>
