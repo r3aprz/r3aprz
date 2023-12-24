@@ -3,11 +3,11 @@
 <!-- --- -->
 
 <div>
-  <img width="25%" style="padding-right:25px;" align="right"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
+  <img width="25%" style="padding-right:80px;" align="right"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
 </div>
 
 <div>
-    <h3 align='center' style="font-size: 30px;"> Hi! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'>, I'm Francesco </p>
+    <h3 align='center' style="font-size: 50px;"> Hi! I'm Francesco <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'></p>
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=r3aprz.r3aprz&"  />
     </div>
@@ -45,7 +45,7 @@
 * 🤝  I'm open to collaborating on any project
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 ###
 
@@ -163,7 +163,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 ###
 
