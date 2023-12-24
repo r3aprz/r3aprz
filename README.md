@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <h3 align='center' style="font-size: 50px;"> Hi! I'm Francesco <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'></p>
+    <h3 align='center' style="font-size: 30px;"> Hi! I'm Francesco <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'></p>
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=r3aprz.r3aprz&"  />
     </div>
@@ -45,7 +45,6 @@
 * 🤝  I'm open to collaborating on any project
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 ###
 
@@ -163,7 +162,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 ###
 
@@ -184,7 +182,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
 <h2 align="left">⚡ Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=r3aprz&theme=github-compact"/>
 
