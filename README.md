@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2023
+> 🏆 130 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -24,10 +26,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/r3aprz/r3aprz/main/assets/bar_graph.png)
-
-
- Last Updated on 29/12/2023 23:34:45 UTC
+ Last Updated on 29/12/2023 23:38:09 UTC
 <!--END_SECTION:waka-->
