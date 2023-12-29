@@ -101,9 +101,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=r3aprz&cc=111111&tc=fff&ic=22FE12&bc=none" height="150">
+  <img src="https://github-stats-alpha.vercel.app/api?username=r3aprz&cc=111111&tc=fff&ic=22FE12&bc=none" height="180">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=r3aprz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3aprz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3aprz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
 </div>
 
 ###
