@@ -60,8 +60,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,py,swift,django,flask,mongo,nginx,nodejs,mysql,sqlite,postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" style="background:rgb(36 40 56); border-radius:12px; padding:7px; margin-left:5px" alt="apache logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="38" style="background:white; border-radius:12px; padding:5px; margin-left:5px" alt="oracle logo"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" style="background:rgb(36 40 56); border-radius:12px; padding:7px; margin-left:5px" alt="apache logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="38" style="background:white; border-radius:12px; padding:5px; margin-left:5px" alt="oracle logo"/> -->
 </p>
 
 ###
@@ -84,9 +84,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bash,git,github,arduino,latex,figma,ps,pr,matlab,aws,cloudflare,gcp,linux,raspberrypi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="38" style="background:rgb(36 40 56); border-radius:12px; padding:5px; margin-left:5px" alt="apple logo"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="38" style="background:rgb(36 40 56); border-radius:12px; padding:5px; margin-left:5px" alt="apple logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="34" style="background:rgb(36 40 56); border-radius:12px; padding:7px; margin-left:5px" alt="windows8 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="34" style="background:rgb(36 40 56); border-radius:12px; padding:7px; margin-left:5px" alt="filezilla logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="34" style="background:rgb(36 40 56); border-radius:12px; padding:7px; margin-left:5px" alt="filezilla logo"  /> -->
 </p>
 
 <br>
@@ -101,9 +101,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=r3aprz&cc=111111&tc=fff&ic=22FE12&bc=none" height="200">
+  <img src="https://github-stats-alpha.vercel.app/api?username=r3aprz&cc=111111&tc=fff&ic=22FE12&bc=none" height="150">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=r3aprz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3aprz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3aprz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
