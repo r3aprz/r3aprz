@@ -138,17 +138,14 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     3 hrs 34 mins       ███████████████████████░░   92.75 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     3 hrs 34 mins       ████████████████████████░   97.32 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Intellijidea             3 hrs 40 mins       ████████████████████████░   95.31 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Intellijidea             3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -163,7 +160,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 06:11:33 UTC
+ Last Updated on 24/01/2024 06:11:43 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
