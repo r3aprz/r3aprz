@@ -109,7 +109,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -138,14 +138,14 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     3 hrs 34 mins       ████████████████████████░   97.32 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Java                     2 hrs 52 mins       ████████████████████████░   96.70 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Intellijidea             3 hrs 40 mins       █████████████████████████   100.00 % 
+Intellijidea             2 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -160,7 +160,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/01/2024 06:11:43 UTC
+ Last Updated on 25/01/2024 06:11:24 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
