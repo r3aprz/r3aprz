@@ -109,7 +109,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2026%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -138,16 +138,17 @@ Sunday                   47 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     8 hrs 18 mins       ███████████████████████░░   93.93 % 
-XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Java                     11 hrs 53 mins      ███████████████████████░░   92.12 % 
+XML                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+IDEA_MODULE              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Intellijidea             8 hrs 41 mins       █████████████████████████   98.36 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Intellijidea             12 hrs 37 mins      ████████████████████████░   97.86 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Windows                  8 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -162,7 +163,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/01/2024 06:10:55 UTC
+ Last Updated on 30/01/2024 06:11:08 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
