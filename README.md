@@ -109,7 +109,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs-blue)
 
 **I'm an Early 🐤** 
 
@@ -138,14 +138,16 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      1 hr 18 mins        ████████████████████░░░░░   81.67 % 
-Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+C++                      3 hrs 47 mins       ████████████████████░░░░░   78.19 % 
+CMake                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -161,7 +163,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2024 06:14:03 UTC
+ Last Updated on 02/07/2024 06:14:08 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
