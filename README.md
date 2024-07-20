@@ -138,14 +138,13 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    15 mins             ████████████████████████░   97.30 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -161,7 +160,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2024 06:12:57 UTC
+ Last Updated on 20/07/2024 06:13:52 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
