@@ -111,42 +111,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2033%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                148 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
-🌆 Daytime                138 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  110 commits         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Wednesday                82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Thursday                 53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Sunday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -160,7 +124,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 06:14:29 UTC
+ Last Updated on 01/12/2024 06:14:51 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
