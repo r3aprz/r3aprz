@@ -109,7 +109,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -138,13 +138,13 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -160,7 +160,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2024 06:14:34 UTC
+ Last Updated on 09/12/2024 06:16:46 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
