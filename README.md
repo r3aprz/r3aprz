@@ -138,13 +138,14 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      14 mins             █████████████████████░░░░   84.00 % 
+Text                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -160,7 +161,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2025 06:13:07 UTC
+ Last Updated on 19/01/2025 06:13:49 UTC
 <!--END_SECTION:waka-->
 > [!NOTE]
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
