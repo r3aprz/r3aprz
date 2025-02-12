@@ -23,7 +23,27 @@ $ francescofetch
                                             .'        Linkedin: www.linkedin.com/in/francesco-de-micco-b55034210/
                                              .        Email: francescode.01@gmail.com                  
 ```
+<br>
 
+📊 *Most Recently used Stats* 
+
+```text 
+💬 Programming Languages: 
+Python                      ██████████████████░░░░░░░   75.00 % 
+Other                       ███████░░░░░░░░░░░░░░░░░░   25.00 % 
+
+🔥 Editors: 
+VS Code                     █████████████████████░░░░   90.00 %
+Vim                         ████░░░░░░░░░░░░░░░░░░░░░   10.00 %  
+
+💻 Operating System: 
+Linux                       ████████████████████░░░░░   85.00 % 
+```
+
+<br>
+
+> [!NOTE]
+> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 <!-- <h2 align="left">👩‍💻  About Me</h2>
 
@@ -80,9 +100,9 @@ $ francescofetch
 <!-- ###
 
 
-📊 *My Stats* 
+📊 *Most Recently used Stats* 
 
-```text
+```text 
 💬 Programming Languages: 
 Python                      ██████████████████░░░░░░░   72.94 % 
 Other                       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
@@ -91,7 +111,7 @@ Other                       ███████░░░░░░░░░░�
 VS Code                     █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                       ███████████████░░░░░   85.00 % 
+Linux                       ██████████████████░░░░░░░   85.00 % 
 ```
 
 **I Mostly Code in Python** 
