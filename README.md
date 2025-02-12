@@ -1,42 +1,31 @@
-```
+```yaml
 $ francescofetch
-                           *#%@@@%#*                        
-                       +%@@@@@@@@@@@@%#                     
-                     @@@@@@@@@@@@@@@@@@@@#                  
-                   *@@@@@@@@@@@@@@@@@@@@@@@*                
-                  #@@@@@@%%@@@@@@@@@@@@@@@@%                
-                %@@@@#****++****###%%%%%@@@@+               
-               %@@%##***++++++=+======+%@@@@%               
-              -@@@##***++++=========--=+%@@%@               
-              %@@%##***+++++=============*%@@               
-              #@@##****+++========--======*%%               
-              *@%###%%%%%#*====-=+******==+#                
-              =%%%%##*++****+=-=++++=++++*+*                
-              +%####%%@@%#%##*==+##%#**==++++=              
-            -#*##############*++++++++++==+===              
-            =**####********##+=+==============              
-            -**###********##*+==+=============              
-             ***##**+++=+*##*+=+======--=====:              
-             ***##**++=+**##**++======---====               
-              **#***+=+#%%%#******++==---====               
-                ****+=*#%%%##****+***=---==                 
-                ##**+=++****++=======----==                 
-                 ****+++**+*+*++====----==                  
-                  *******++++**+===----==                   
-                  *######****+***+=======                   
-                  ***#%%%%%#%%%##***#*===                   
-                  *****#%%%%%%%%%#*+=---=-                  
-                  ************+===------=-                  
-                 +**++***+++===----------=                  
-               -=+**+++++++===-----------==--               
-          -+======++++++++===--------------:::------        
-       -==+====--=--+++======-----------=-:::------==--     
-=  ============--------=====----------=-:::::------=-=-=====
-===+=-=====--===---------:::::----:::...::::-------=-=-=====
+
+..............                                        francesco@demicco 
+            ..,;:ccc,.                                --------- 
+          ......''';lxO.                              OS: Linux, MacOS, Windows 
+.....''''..........,:ld;                              Uptime: 22 years
+           .';;;:::;,,.x,                             CPU: Francesco
+      ..'''.            0Xxoc:,.  ...                 Kernel: Univeristà degli Studi di Napoli Partheonpe 
+  ....                ,ONkc;,;cokOdc',.               Host: Naples (127.0.0.1)
+ .                   OMo           `:ddo.             WM Theme: Kali-Dark
+                    dMc               :OO;            Editors: VScode, VS, Vim
+                    0M.                 .`o.          Programming Lang: C, C++, C#, Java, Swift, Python, JS
+                    ;Wd                               DB: SQLite, MySQL, MariaDB, SQLServer
+                     ;XO,                             Other: git, arduino, raspberrypi
+                       ,d0Odlc;,..                    OS Lang: "IT-it", "EN-en" 
+                           ..',;:cdOOd::,.            Certifications: Apple Foundation Course, Cisco Networking Academy
+                                    .:d;.':;.         Memory: 1510MiB / 150922MiB
+                                       'd,  .'      
+                                         ;l   ..      francesco@contacts 
+                                          .o          ---------
+                                            `c        Instagram: fraachakra 
+                                            .'        Linkedin: www.linkedin.com/in/francesco-de-micco-b55034210/
+                                             .        Email: francescode.01@gmail.com                  
 ```
 
 
-<h2 align="left">👩‍💻  About Me</h2>
+<!-- <h2 align="left">👩‍💻  About Me</h2>
 
 * 💻  I'm `Francesco` a 22 years old frontend and backend developer
 * 🌍  I'm based in Naples
@@ -44,7 +33,7 @@ $ francescofetch
 * 🧠  I'm learning at Università degli Studi di Napoli "Parthenope"
 * 🤝  I'm open to collaborating on any project
 
-<br>
+<br> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
@@ -88,7 +77,7 @@ $ francescofetch
 <br> -->
 
 
-###
+<!-- ###
 
 
 📊 *My Stats* 
@@ -113,4 +102,4 @@ CSS                      1 repo              ██░░░░░░░░░�
 C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
+``` -->
