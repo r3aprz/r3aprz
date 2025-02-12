@@ -13,7 +13,7 @@ $ francescofetch
                     0M.                 .`o.          Programming Lang: C, C++, C#, Java, Swift, Python, JS
                     ;Wd                               DB: SQLite, MySQL, MariaDB, SQLServer
                      ;XO,                             Other: git, arduino, raspberrypi
-                       ,d0Odlc;,..                    OS Lang: "IT-it", "EN-en" 
+                       ud0Odlc;,..                    OS Lang: "IT-it", "EN-en" 
                            ..',;:cdOOd::,.            Certifications: Apple Foundation Course, Cisco Networking Academy
                                     .:d;.':;.         Memory: 1510MiB / 150922MiB
                                        'd,  .'      
