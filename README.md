@@ -4,7 +4,7 @@ $ francescofetch
 .,,,,,,.......                                        francesco@demicco 
             ``.;:ccc,.                                --------- 
           ......```;lxO.                              OS: Linux, MacOS, Windows 
-.....````.......,,,,ildi                              Uptime: 22 years
+   ..````.......,,,,ildi                              Uptime: 22 years
            .';;;:::;,,.x,                             CPU: Francesco
       ..'''.            0Xxoc:,.  ...                 Kernel: Univeristà degli Studi di Napoli Partheonpe 
   ....                ,ONkc;,;cokOdc',.               Host: Naples (127.0.0.1)
