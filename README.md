@@ -1,8 +1,8 @@
 ```yaml
 $ francescofetch
 
-.,,,,,,.......                                        francesco@demicco: 
-            ``.;:ccc,.                                :--------- 
+.,,,,,,.......                                        francesco@demicco 
+            ``.;:ccc,.                                --------- 
           ......```;lxO.                              OS: Linux, MacOS, Windows 
    ..````.......,,,,ildi                              Uptime: 22 years
            .';;;:::;,,.x,                             CPU: Francesco
@@ -17,8 +17,8 @@ $ francescofetch
                            ..',;:cdOOd::,.            Certifications: Apple Foundation Course, Cisco Networking Academy
                                     .:d;.':;.         Memory: 1510MiB / 150922MiB
                                        'd,  .'      
-                                         ;l   ..      francesco@contacts: 
-                                          .o          :---------
+                                         ;l   ..      francesco@contacts 
+                                          .o          ---------
                                             `c        Instagram: fraachakra 
                                             .'        Linkedin: www.linkedin.com/in/francesco-de-micco-b55034210/
                                              .        Email: francescode.01@gmail.com                  
